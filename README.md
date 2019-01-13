@@ -1,5 +1,7 @@
 # Spring-MVC-Boilerplate
 
+[![Build Status](https://travis-ci.org/RyanFleck/Spring-MVC-Boilerplate.svg?branch=master)](https://travis-ci.org/RyanFleck/Spring-MVC-Boilerplate)
+
 Spring MVC Skeleton with Unit Tests, CI and a Heroku Container deployment.
 
 **Resources:**
