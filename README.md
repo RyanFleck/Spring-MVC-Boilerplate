@@ -1,4 +1,4 @@
-# Spring-MVC-Boilerplate
+# **RCF** Spring MVC Boilerplate
 
 [![Build Status](https://travis-ci.org/RyanFleck/Spring-MVC-Boilerplate.svg?branch=master)](https://travis-ci.org/RyanFleck/Spring-MVC-Boilerplate)
 
@@ -6,8 +6,10 @@ Spring MVC Skeleton with Unit Tests, CI and a Heroku Container deployment.
 
 **ToDo:**
 
-- Research/Add MVC BP.
+- Research/Add robust MVC BP.
 - Improve Unit Testing BP.
+- Add Bootstrap to View.
+- Organize Scripts and Styles.
 
 **Done:**
 
