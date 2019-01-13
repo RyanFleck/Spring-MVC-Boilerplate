@@ -7,10 +7,10 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class Application {
 
     public static void main(String[] args) {
-            SpringApplication.run(Application.class, args);
+        SpringApplication.run(Application.class, args);
     }
-    
-    public static int testMe(){
+
+    public static int testMe() {
         System.out.println("Simple method to confirm jUnit is working.");
         return 1;
     }

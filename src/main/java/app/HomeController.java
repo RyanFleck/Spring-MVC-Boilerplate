@@ -13,7 +13,7 @@ public class HomeController {
         model.addAttribute("name", name);
         return "greeting";
     }
-    
+
     @GetMapping("/error")
     public String error(@RequestParam(name="name", required=false, defaultValue="Error") String name, Model model) {
         model.addAttribute("name", name);
