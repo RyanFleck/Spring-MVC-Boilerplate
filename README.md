@@ -45,3 +45,8 @@ After cloning the repository, the following commands can be used to develop, tes
 
 1. Every Java class must have a corresponding `ClassNameTest.java` file.
 1. Format Java classes with `astyle Class.java` before committing.
+
+### Time Tracking
+
+1. **2018-01-12** - 2h - Read Spring MVC materials on bus.
+1. **2018-01-13** - 3h - Init GH repo, Maven, Spring, JUnit, Travis, Heroku.
